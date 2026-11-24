@@ -1,5 +1,5 @@
 {
-  "name": "learn-anatomy-3d",
+  "name": "learnanatomy3d",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -10,11 +10,8 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "framer-motion": "^14.14.0",
-    "gsap": "^3.15.1",
     "react": "^19.3.1",
-    "react-dom": "^19.3.1",
-    "three": "^0.187.0"
+    "react-dom": "^19.3.1"
   },
   "devDependencies": {
     "@eslint/js": "^10.0.1",
